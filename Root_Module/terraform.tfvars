@@ -9,6 +9,11 @@ rgs = {
     name = "rg-prod"
     loc  = "Japan East"
   }
+
+  "rg3" = {
+    name = "rg-UAT"
+    loc  = "Japan East"
+  }
 }
 
 
