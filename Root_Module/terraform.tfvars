@@ -11,7 +11,7 @@ rgs = {
   }
 
   "rg3" = {
-    name = "rg-UAT"
+    name = "rg-UAT-Raveesh"
     loc  = "Japan East"
   }
 }
