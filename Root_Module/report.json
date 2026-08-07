@@ -1,0 +1,22 @@
+[
+ {
+  "RuleID": "generic-api-key",
+  "Description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+  "StartLine": 85,
+  "EndLine": 85,
+  "StartColumn": 6,
+  "EndColumn": 55,
+  "Match": "github_token = \"ghp_asdkasfkj23qjdnjg32674ad3jbad\"",
+  "Secret": "ghp_asdkasfkj23qjdnjg32674ad3jbad",
+  "File": "terraform.tfvars",
+  "SymlinkFile": "",
+  "Commit": "",
+  "Entropy": 3.9306097,
+  "Author": "",
+  "Email": "",
+  "Date": "",
+  "Message": "",
+  "Tags": [],
+  "Fingerprint": "terraform.tfvars:generic-api-key:85"
+ }
+]
